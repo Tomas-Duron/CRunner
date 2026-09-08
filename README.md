@@ -7,7 +7,7 @@ This was created because I didn't like having to navigate to a folder, compile t
 ## How to run
 1. Download file from Github
 2. Navigate to the folder the .sh file is in using Git Bash
-3. Run `chmod +x run.sh`
+3. Run `chmod +x runner.sh`
 4. Now run "./runner [Directory and Filename] [Compiler Type] [Flags (Optional]"
 
 ## Todo
